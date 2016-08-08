@@ -17,10 +17,6 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
-    NSDictionary *info = [[NSBundle mainBundle] infoDictionary];
-    NSString *name = [[NSBundle mainBundle] infoDictionary][@"APP_NAME"];
-    
-    
     return YES;
 }
 
