@@ -1,0 +1,11 @@
+//
+//  MyTestConfig.xcconfig
+//  BuildDemo
+//
+//  Created by lee on 16/8/8.
+//  Copyright © 2016年 lee. All rights reserved.
+//
+
+#include "Default.xcconfig"
+
+APP_NAME = Demo Debug
